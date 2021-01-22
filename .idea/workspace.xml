@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63442504-01bd-4f3d-a793-03f36b6f4f43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ljhWFF1pP1sGjH8DSMGYCgzJzi" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="629" y="223" key="SettingsEditor" timestamp="1611335970271">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="629" y="223" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1611335970271" />
+    <state x="786" y="341" width="667" height="486" key="find.popup" timestamp="1611336026749">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="786" y="341" width="667" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1611336026749" />
+    <state x="784" y="288" key="new project wizard" timestamp="1611336090168">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="784" y="288" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1611336090168" />
+  </component>
+</project>
